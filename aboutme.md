@@ -10,3 +10,5 @@ With a strong interest in statistics, probability theory, optimization, and mach
 My current work at SafranTech is centered on the application of Bayesian inference, machine learning and model-based signal processing for prognostics and diagnostics of aircraft engines. I am passionate about using my expertise in these areas to tackle real-world problems and make a positive impact.
 
 Please find here my detailed CV.
+
+
