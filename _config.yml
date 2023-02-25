@@ -20,8 +20,10 @@ author: Yosra Marnissi
 ###############################################
 
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
   Publications: "aboutme"
+  Ph.D work: "aboutme"
   Projects: "aboutme"
   Teaching: "aboutme"
 
