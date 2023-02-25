@@ -50,7 +50,7 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "marnissi.yosra@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: "https://github.com/ymarnissi"
   google-scholar: "https://scholar.google.com.sg/citations?user=01CT2_oAAAAJ&hl=en"
   linkdin: "https://www.linkedin.com/in/yosra-marnissi-39428058/?originalSubdomain=fr"
