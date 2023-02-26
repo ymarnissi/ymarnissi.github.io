@@ -1,16 +1,21 @@
+---
+layout: page
+title: Publications 
+---
+
 ### Journals 
 
 - Y. Hawwari, J. Antoni, H. André, Y.  Marnissi, D. Abboud and M.El-Badaoui. Robust Spectral Peaks Detection in Vibration and Acoustic Signals. IEEE Transactions on Instrumentation and Measurement (2022)
 
 - D. Abboud, Y. Marnissi, A. Assoumane, Y. Hawwari and M. El-Badaoui. Synchronous analysis of cyclo-non-stationary signals: a comprehensive study with aeronautic applications. Mechanical systems and signal processing  (2022) 
 
- - Y. Marnissi, Y. Hawwari, A. Assoumane, D. Abboud and M. El-Badaoui. On the use of structured prior models for Bayesian compressive sensing of modulated signals. Applied science: Bayesian methods for inverse problems (2021)
+- Y. Marnissi, Y. Hawwari, A. Assoumane, D. Abboud and M. El-Badaoui. On the use of structured prior models for Bayesian compressive sensing of modulated signals. Applied science: Bayesian methods for inverse problems (2021)
 
 - Y. Marnissi, E. Chouzenoux,A. Benazza-Benyahia and J.-C. Pesquet. Majorize-Minimize Adapted Metropolis-Hastings Algorithm. IEEE Transactions on Signal Processing (2019)
 
 - D. Abboud, Y. Marnissi, Mohammed El-Badaoui. Optimal filtering of angle-time cyclostationary signals: application to vibrations recorded under nonstationary regimes.  Mechanical systems and signal processing  (2019)
 
- - Y. Marnissi, E. Chouzenoux, A. Benazza-Benyahia and J.-C. Pesquet. An auxiliary variable method for Markov chain Monte Carlo algorithms in high dimension. Entropy: Probabilistic Methods for Inverse Problems (2018)
+- Y. Marnissi, E. Chouzenoux, A. Benazza-Benyahia and J.-C. Pesquet. An auxiliary variable method for Markov chain Monte Carlo algorithms in high dimension. Entropy: Probabilistic Methods for Inverse Problems (2018)
 
 - Y. Marnissi, Y. Zheng, E. Chouzenoux, and J.-C. Pesquet. A Variational Bayesian Approach for Image Restoration. Application to Image Deblurring with Poisson-Gaussian Noise. IEEE Transactions on Computational Imaging (2017)  
 
