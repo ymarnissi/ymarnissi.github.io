@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ## Journals 
-<p style='text-align: justify;'> 
+<p style="text-align: justify;font-weight:700;font-size:20px"> 
   <ul>
    <li>Y. Hawwari, J. Antoni, H. André, <ins>Y. Marnissi</ins>, D. Abboud and M. El-Badaoui. Robust Spectral Peaks Detection in Vibration and Acoustic Signals. IEEE Transactions on Instrumentation and Measurement (2022)</li>
   <li>D. Abboud, <ins>Y. Marnissi</ins>, A. Assoumane, Y. Hawwari and M. El-Badaoui. Synchronous analysis of cyclo-non-stationary signals: a comprehensive study with aeronautic applications. Mechanical systems and signal processing  (2022) </li>
