@@ -5,7 +5,7 @@ layout: page
 
 <h1>About me.  </h1>
 
-<p <br> </p>
+<p  </p>
 
 <p style="text-align: justify; margin:5px; font-weight:100;font-size:15px"> With a strong interest in statistics, probability theory, optimization, and machine learning, I have been a research engineer at the Mathematics and Algorithms for Temporal Data (MATD) Lab at SafranTech since September 2017. Prior to that, I was a PhD student at Gaspard Monge Institute in Gustave Eiffel University under the supervision of Jean-Christophe Pesquet and Emilie Chouzenoux. </p>
 
