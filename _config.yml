@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Publications: "publications"
   Ph.D work: "phd"
-  Projects: "aboutme"
+  #Projects: "aboutme"
   Teaching and mentoring: "aboutme"
 
 ################
