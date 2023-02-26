@@ -3,9 +3,8 @@ layout: page
 title: Publications 
 ---
 
-### Journals 
-
-- Y. Hawwari, J. Antoni, H. André, Y.  Marnissi, D. Abboud and M.El-Badaoui. Robust Spectral Peaks Detection in Vibration and Acoustic Signals. IEEE Transactions on Instrumentation and Measurement (2022)
+## Journals 
+- Y. Hawwari, J. Antoni, H. André, <font color="blue"> Y.  Marnissi</font>, D. Abboud and M.El-Badaoui. Robust Spectral Peaks Detection in Vibration and Acoustic Signals. IEEE Transactions on Instrumentation and Measurement (2022)
 - D. Abboud, Y. Marnissi, A. Assoumane, Y. Hawwari and M. El-Badaoui. Synchronous analysis of cyclo-non-stationary signals: a comprehensive study with aeronautic applications. Mechanical systems and signal processing  (2022) 
 - Y. Marnissi, Y. Hawwari, A. Assoumane, D. Abboud and M. El-Badaoui. On the use of structured prior models for Bayesian compressive sensing of modulated signals. Applied science: Bayesian methods for inverse problems (2021)
 - Y. Marnissi, E. Chouzenoux,A. Benazza-Benyahia and J.-C. Pesquet. Majorize-Minimize Adapted Metropolis-Hastings Algorithm. IEEE Transactions on Signal Processing (2019)
@@ -13,8 +12,9 @@ title: Publications
 - Y. Marnissi, E. Chouzenoux, A. Benazza-Benyahia and J.-C. Pesquet. An auxiliary variable method for Markov chain Monte Carlo algorithms in high dimension. Entropy: Probabilistic Methods for Inverse Problems (2018)
 - Y. Marnissi, Y. Zheng, E. Chouzenoux, and J.-C. Pesquet. A Variational Bayesian Approach for Image Restoration. Application to Image Deblurring with Poisson-Gaussian Noise. IEEE Transactions on Computational Imaging (2017)  
 
-### Conferences
-
+## Conferences
+- M. Leiber, A. Barrau, Y. Marnissi, and D. Abboud. A differentiable adaptive short-time Fourier transform with respect to the window length. Accepted in ICASSP 2023. 
+- M. Leiber, A. Barrau, Y. Marnissi, and D. Abboud. A differentiable short-time Fourier transform with respect to the window length. European Signal Processing Conference (EUSIPCO), pp. 1392-1396. IEEE, 2022.
 - M. Leiber, A. Barrau, Y. Marnissi, and D. Abboud. A differentiable short-time Fourier transform with respect to the window length. European Signal Processing Conference (EUSIPCO), pp. 1392-1396. IEEE, 2022.
 - D. Abboud, J. Griffaton, Y. Marnissi, J. L. Gomez Chirinos, and M. Elbadaoui. Vibration-Based Diagnostic of Aircraft Bearings Operating Under Strong Speed Variations.  Turbo Expo: Power for Land, Sea, and Air, vol. 85970, p. V001T01A008. American Society of Mechanical Engineers, 2022.
 - H. Kanj, A. Raad, D. Abboud, and Y. Marnissi. Unsupervised Gear Monitoring using Deep Convolutional Auto-Encoders and K-Means: Application to Gotix Dataset. 2022 International Conference on Control, Automation and Diagnosis (ICCAD). IEEE, 2022. 
@@ -35,7 +35,7 @@ title: Publications
 - Y. Marnissi, A. Benazza-Benyahia, E. Chouzenoux and J.-C. Pesquet. Generalized multivariate exponential power prior for wavelet-based multichannel image restoration. (ICIP 2013)
 
 
-### Patents
+## Patents
 
 - Method, device and computer program for monitoring a rotating machine of an aircraft (US patent)
 - Method and device for monitoring a gear system (US patent)
@@ -46,7 +46,7 @@ title: Publications
 - Estimation de vitesse de véhicules à roue pour la navigation par analyse de mesures inertielles
 
 
-### Talks without proceedings
+## Talks without proceedings
 
 - The synchronous mean for cyclo-non-stationary signals. 13th Workshop On Nonstationary Systems And Their Applications. Grodek, Pologne, 3-5 Février 2020
 - A variational Bayesian approach for image restoration with Poisson-Gaussian noise. SIAM Conference on Imaging Science. Bologne, Italie, 5-8 Juin 2018
