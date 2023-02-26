@@ -4,35 +4,34 @@ title: Publications
 ---
 
 ## Journals 
-- Y. Hawwari, J. Antoni, H. André, <font color="blue"> Y.  Marnissi</font>, D. Abboud and M.El-Badaoui. Robust Spectral Peaks Detection in Vibration and Acoustic Signals. IEEE Transactions on Instrumentation and Measurement (2022)
-- D. Abboud, Y. Marnissi, A. Assoumane, Y. Hawwari and M. El-Badaoui. Synchronous analysis of cyclo-non-stationary signals: a comprehensive study with aeronautic applications. Mechanical systems and signal processing  (2022) 
-- Y. Marnissi, Y. Hawwari, A. Assoumane, D. Abboud and M. El-Badaoui. On the use of structured prior models for Bayesian compressive sensing of modulated signals. Applied science: Bayesian methods for inverse problems (2021)
-- Y. Marnissi, E. Chouzenoux,A. Benazza-Benyahia and J.-C. Pesquet. Majorize-Minimize Adapted Metropolis-Hastings Algorithm. IEEE Transactions on Signal Processing (2019)
-- D. Abboud, Y. Marnissi, Mohammed El-Badaoui. Optimal filtering of angle-time cyclostationary signals: application to vibrations recorded under nonstationary regimes.  Mechanical systems and signal processing  (2019)
-- Y. Marnissi, E. Chouzenoux, A. Benazza-Benyahia and J.-C. Pesquet. An auxiliary variable method for Markov chain Monte Carlo algorithms in high dimension. Entropy: Probabilistic Methods for Inverse Problems (2018)
-- Y. Marnissi, Y. Zheng, E. Chouzenoux, and J.-C. Pesquet. A Variational Bayesian Approach for Image Restoration. Application to Image Deblurring with Poisson-Gaussian Noise. IEEE Transactions on Computational Imaging (2017)  
+- Y. Hawwari, J. Antoni, H. André, <font color="blue"> Y.  Marnissi</font>, D. Abboud and M. El-Badaoui. Robust Spectral Peaks Detection in Vibration and Acoustic Signals. IEEE Transactions on Instrumentation and Measurement (2022)
+- D. Abboud, <font color="blue"> Y.  Marnissi</font>, A. Assoumane, Y. Hawwari and M. El-Badaoui. Synchronous analysis of cyclo-non-stationary signals: a comprehensive study with aeronautic applications. Mechanical systems and signal processing  (2022) 
+- <font color="blue"> Y.  Marnissi</font>, Y. Hawwari, A. Assoumane, D. Abboud and M. El-Badaoui. On the use of structured prior models for Bayesian compressive sensing of modulated signals. Applied science: Bayesian methods for inverse problems (2021)
+- <font color="blue"> Y.  Marnissi</font>, E. Chouzenoux,A. Benazza-Benyahia and J.-C. Pesquet. Majorize-Minimize Adapted Metropolis-Hastings Algorithm. IEEE Transactions on Signal Processing (2019)
+- D. Abboud, <font color="blue"> Y.  Marnissi</font>, Mohammed El-Badaoui. Optimal filtering of angle-time cyclostationary signals: application to vibrations recorded under nonstationary regimes.  Mechanical systems and signal processing  (2019)
+- <font color="blue"> Y.  Marnissi</font>, E. Chouzenoux, A. Benazza-Benyahia and J.-C. Pesquet. An auxiliary variable method for Markov chain Monte Carlo algorithms in high dimension. Entropy: Probabilistic Methods for Inverse Problems (2018)
+- <font color="blue"> Y.  Marnissi</font>, Y. Zheng, E. Chouzenoux, and J.-C. Pesquet. A Variational Bayesian Approach for Image Restoration. Application to Image Deblurring with Poisson-Gaussian Noise. IEEE Transactions on Computational Imaging (2017)  
 
 ## Conferences
-- M. Leiber, A. Barrau, Y. Marnissi, and D. Abboud. A differentiable adaptive short-time Fourier transform with respect to the window length. Accepted in ICASSP 2023. 
-- M. Leiber, A. Barrau, Y. Marnissi, and D. Abboud. A differentiable short-time Fourier transform with respect to the window length. European Signal Processing Conference (EUSIPCO), pp. 1392-1396. IEEE, 2022.
-- M. Leiber, A. Barrau, Y. Marnissi, and D. Abboud. A differentiable short-time Fourier transform with respect to the window length. European Signal Processing Conference (EUSIPCO), pp. 1392-1396. IEEE, 2022.
-- D. Abboud, J. Griffaton, Y. Marnissi, J. L. Gomez Chirinos, and M. Elbadaoui. Vibration-Based Diagnostic of Aircraft Bearings Operating Under Strong Speed Variations.  Turbo Expo: Power for Land, Sea, and Air, vol. 85970, p. V001T01A008. American Society of Mechanical Engineers, 2022.
-- H. Kanj, A. Raad, D. Abboud, and Y. Marnissi. Unsupervised Gear Monitoring using Deep Convolutional Auto-Encoders and K-Means: Application to Gotix Dataset. 2022 International Conference on Control, Automation and Diagnosis (ICCAD). IEEE, 2022. 
-- Y. Hawwari, Y. Marnissi, D. Abboud and M. El-badaoui. Robust Bayesian approach of instantaneous speed estimation in non-stationary operating conditions. (ISMA 2020)
-- Y. Marnissi, D. Abboud and M. El-badaoui. A Data Augmentation Approach for Sampling Gaussian Models in High Dimension. (EUSIPCO 2019)
-- D. Abboud., Y. Marnissi and M. El-badaoui. Synchronous fitting for deterministic signal extraction in non-stationary regimes: Application to helicopter vibrations. (SurVishNo 2019)
-- C. Parellier, T. Bovkun, T. Denimal,  D. Abboud, Y. Marnissi. Non-regular sampling and compressive sensing for gearbox monitoring (WCCM 2019).
-- Y. Marnissi, D. Abboud and M. El-badaoui. A Bayesian approach for order tracking in rotating machines (WCCM 2019)
-- Y. Marnissi, E. Chouzenoux,A. Benazza-Benyahia and J.-C. Pesquet. MM adapted MH methods.(BASP 2019)
-- Y. Marnissi, D. Abboud and M. El-badaoui. Vibration-based health monitoring methodology for helicopter gearboxes. (WCCM 2018)    
-- D. Abboud, Y. Marnissi and M. El-badaoui. Semi-blind Wiener filtering of mechanical source vibrations: theory and application to aircraft gearbox surveillance. (ISMA 2018) 
-- Y. Marnissi, E. Chouzenoux, J.-C. Pesquet and A. Benazza-Benyahiya. An Auxiliary Variable Method for Langevin based MCMC algorithms. (SSP 2016)
-- M. A. Moussa,Y. Marnissi and Y. Ghamri Doudane. Matrix Completion with Convex Constraints for Data Gathering in Wireless Sensor Networks . (GLOBECOM 2016)
-- Y. Marnissi, Y. Zheng and J.-C. Pesquet. Fast Variational Bayesian signal recovery in the presence of Poisson-Gaussian noise. (ICASSP 2016)
+- M. Leiber, <font color="blue"> Y.  Marnissi</font>,  A. Barrau and M. El-Badaoui. A differentiable adaptive short-time Fourier transform with respect to the window length. Accepted in ICASSP 2023. 
+- M. Leiber, A. Barrau, <font color="blue"> Y.  Marnissi</font>, and D. Abboud. A differentiable short-time Fourier transform with respect to the window length. European Signal Processing Conference (EUSIPCO), pp. 1392-1396. IEEE, 2022.
+- D. Abboud, J. Griffaton,  <font color="blue"> Y.  Marnissi</font>, J. L. Gomez Chirinos, and M. Elbadaoui. Vibration-Based Diagnostic of Aircraft Bearings Operating Under Strong Speed Variations.  Turbo Expo: Power for Land, Sea, and Air, vol. 85970, p. V001T01A008. American Society of Mechanical Engineers, 2022.
+- H. Kanj, A. Raad, D. Abboud, and <font color="blue"> Y.  Marnissi</font>. Unsupervised Gear Monitoring using Deep Convolutional Auto-Encoders and K-Means: Application to Gotix Dataset. 2022 International Conference on Control, Automation and Diagnosis (ICCAD). IEEE, 2022. 
+- Y. Hawwari, <font color="blue"> Y.  Marnissi</font>, D. Abboud and M. El-badaoui. Robust Bayesian approach of instantaneous speed estimation in non-stationary operating conditions. (ISMA 2020)
+- <font color="blue"> Y.  Marnissi</font>, D. Abboud and M. El-badaoui. A Data Augmentation Approach for Sampling Gaussian Models in High Dimension. (EUSIPCO 2019)
+- D. Abboud., <font color="blue"> Y.  Marnissi</font> and M. El-badaoui. Synchronous fitting for deterministic signal extraction in non-stationary regimes: Application to helicopter vibrations. (SurVishNo 2019)
+- C. Parellier, T. Bovkun, T. Denimal,  D. Abboud and <font color="blue"> Y.  Marnissi</font>. Non-regular sampling and compressive sensing for gearbox monitoring (WCCM 2019).
+- <font color="blue">Y. Marnissi</font>, D. Abboud and M. El-badaoui. A Bayesian approach for order tracking in rotating machines (WCCM 2019)
+- <font color="blue">Y. Marnissi</font>, E. Chouzenoux,A. Benazza-Benyahia and J.-C. Pesquet. MM adapted MH methods.(BASP 2019)
+- <font color="blue">Y. Marnissi</font>, D. Abboud and M. El-badaoui. Vibration-based health monitoring methodology for helicopter gearboxes. (WCCM 2018)   
+- D. Abboud, <font color="blue">Y.  Marnissi</font> and M. El-badaoui. Semi-blind Wiener filtering of mechanical source vibrations: theory and application to aircraft gearbox surveillance. (ISMA 2018) 
+- <font color="blue">Y. Marnissi</font>, E. Chouzenoux, J.-C. Pesquet and A. Benazza-Benyahiya. An Auxiliary Variable Method for Langevin based MCMC algorithms. (SSP 2016)
+- M. A. Moussa, <font color="blue">Y. Marnissi</font> and Y. Ghamri Doudane. Matrix Completion with Convex Constraints for Data Gathering in Wireless Sensor Networks . (GLOBECOM 2016)
+- <font color="blue">Y. Marnissi</font>, Y. Zheng and J.-C. Pesquet. Fast Variational Bayesian signal recovery in the presence of Poisson-Gaussian noise. (ICASSP 2016)
 - M. A. Moussa,Y. Marnissi and Y. Ghamri Doudane. A Primal-Dual algorithm for data gathering based on matrix completion for wireless sensor networks. (ICC 2016)
-- Y. Marnissi, E. Chouzenoux and A. Benazza-Benyahia.  Reconstruction de signaux parcimonieux à l'aide d'un algorithme rapide d'échantillonnage stochastique. (GRETSI 2015)
-- Y. Marnissi, A. Benazza-Benyahia, E. Chouzenoux and J.-C. Pesquet. Majorize-Minimize adapted Metropolis Hastings algorithm. Application to multichannel image recovery. (EUSIPCO 2014)
-- Y. Marnissi, A. Benazza-Benyahia, E. Chouzenoux and J.-C. Pesquet. Generalized multivariate exponential power prior for wavelet-based multichannel image restoration. (ICIP 2013)
+- <font color="blue">Y. Marnissi</font>, E. Chouzenoux and A. Benazza-Benyahia.  Reconstruction de signaux parcimonieux à l'aide d'un algorithme rapide d'échantillonnage stochastique. (GRETSI 2015)
+- <font color="blue">Y. Marnissi</font>, A. Benazza-Benyahia, E. Chouzenoux and J.-C. Pesquet. Majorize-Minimize adapted Metropolis Hastings algorithm. Application to multichannel image recovery. (EUSIPCO 2014)
+- <font color="blue">Y. Marnissi</font>, A. Benazza-Benyahia, E. Chouzenoux and J.-C. Pesquet. Generalized multivariate exponential power prior for wavelet-based multichannel image restoration. (ICIP 2013)
 
 
 ## Patents
