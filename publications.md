@@ -4,13 +4,17 @@ title: Publications
 ---
 
 ## Journals 
+<p style='text-align: justify;'> 
 - Y. Hawwari, J. Antoni, H. André, <ins>Y. Marnissi</ins>, D. Abboud and M. El-Badaoui. Robust Spectral Peaks Detection in Vibration and Acoustic Signals. IEEE Transactions on Instrumentation and Measurement (2022)
 - D. Abboud, <ins>Y. Marnissi</ins>, A. Assoumane, Y. Hawwari and M. El-Badaoui. Synchronous analysis of cyclo-non-stationary signals: a comprehensive study with aeronautic applications. Mechanical systems and signal processing  (2022) 
 - <ins>Y. Marnissi</ins>, Y. Hawwari, A. Assoumane, D. Abboud and M. El-Badaoui. On the use of structured prior models for Bayesian compressive sensing of modulated signals. Applied science: Bayesian methods for inverse problems (2021)
 - <ins>Y. Marnissi</ins>, E. Chouzenoux,A. Benazza-Benyahia and J.-C. Pesquet. Majorize-Minimize Adapted Metropolis-Hastings Algorithm. IEEE Transactions on Signal Processing (2019)
 - D. Abboud, <ins>Y. Marnissi</ins>, Mohammed El-Badaoui. Optimal filtering of angle-time cyclostationary signals: application to vibrations recorded under nonstationary regimes.  Mechanical systems and signal processing  (2019)
 - <ins>Y. Marnissi</ins>, E. Chouzenoux, A. Benazza-Benyahia and J.-C. Pesquet. An auxiliary variable method for Markov chain Monte Carlo algorithms in high dimension. Entropy: Probabilistic Methods for Inverse Problems (2018)
-- <ins>Y. Marnissi</ins>, Y. Zheng, E. Chouzenoux, and J.-C. Pesquet. A Variational Bayesian Approach for Image Restoration. Application to Image Deblurring with Poisson-Gaussian Noise. IEEE Transactions on Computational Imaging (2017)  
+- <ins>Y. Marnissi</ins>, Y. Zheng, E. Chouzenoux, and J.-C. Pesquet. A Variational Bayesian Approach for Image Restoration. Application to Image Deblurring with Poisson-Gaussian Noise. IEEE Transactions on Computational Imaging (2017) 
+</p>
+
+
 
 ## Conferences
 - M. Leiber, <ins>Y. Marnissi</ins>,  A. Barrau and M. El-Badaoui. A differentiable adaptive short-time Fourier transform with respect to the window length. Accepted in ICASSP 2023. 
