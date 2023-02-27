@@ -28,22 +28,17 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 </div>
   
 <div style="float: right; width: 40%; text-align: justify; font-size:15px;">
-<center> <h2>DA Gibbs sampler</h2></center>
-<p>This is the Majorize-Minimize adapted Metropolis-Hasting algorithm: a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using derivatives informations about the target density. </p>
+<center> <h2>auxiliary variables Gibbs sampler for high dimensional spaces</h2></center>
+<p>This is a Gibbs sampler with a Data Augmentation approach.  It ddresses the problem of sampling from multivariable distributions when the variables of interest are strongly correlated with heterogeneous sources of dependencies preventing efficient sampling with standard algorithms.</p>
 <!--more-->
-<p>It is a <strong>Metropolis-Hastings</strong> algorithm inspired from <strong>Langevin dynamics</strong>, where the drift term is preconditioned
-by an adaptive matrix constructed through a <strong>Majorization-Minimization</strong> strategy. </p>
+<p> Auxliary variables are added to the model without changing the target marginal
+distributions in such a way that simulation can be performed more efficiently
+in the new larger space. </p>
 <a href="3MH.md">Read More...</a>
 </div>
   
 </div>
 
-This
-chapter addresses the problem of sampling from multivariable distributions when the variables of interest are strongly correlated with heterogeneous sources of dependencies preventing the construction of ef-
-cient proposals in Metropolis Hastings algorithms. In particular, we
-add additional variables to the model without changing the marginal
-laws in such a way that simulation can be performed more eciently
-in the new larger space
 
 
 
