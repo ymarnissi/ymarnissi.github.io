@@ -9,8 +9,8 @@ My Ph.D. research aims to investigate the fascinating intersection between <stro
 
 ---
 <div style="width: 50%; text-align: center; font-size:15px; margin:10px;">
-<a style= href="#" class="btn">Ph.D manuscript.</a>
-<a style= href="#" class="btn">Defense's slides.</a>
+<a href="#" class="btn">Ph.D manuscript.</a>
+<a href="#" class="btn">Defense's slides.</a>
 </div>
 
 ---
@@ -25,7 +25,8 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 <a href="3MH.md">Read More...</a>
 </div>
 
----
+
+
 
 
 
