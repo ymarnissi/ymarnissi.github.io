@@ -8,9 +8,11 @@ My Ph.D. research aims to investigate the fascinating intersection between <stro
 </p>
 
 ---
+<center>
 <div style="width: 50%; text-align: center; font-size:15px; margin:10px;">
   <a href="#" class="btn">Ph.D manuscript.</a> <a href="#" class="btn">Defense's slides.</a>
 </div>
+</center>
 ---
 <div style="width: 50%; text-align: justify; font-size:15px; margin:10px;">
 <h2>3MH sampler</h2>
