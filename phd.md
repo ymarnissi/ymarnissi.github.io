@@ -8,12 +8,12 @@ My Ph.D. research aims to investigate the fascinating intersection between deter
 </p>
 
 ---
+<div style="width: 50%; text-align: center; font-size:15px; margin:10px;">
+<a style= href="#" class="btn">Ph.D manuscript.</a>
+<a style= href="#" class="btn">Defense's slides.</a>
+</div>
 
-<a align="center" href="#" class="btn">Ph.D manuscript.</a>
-<a align="center" href="#" class="btn">Defense's slides.</a>
-
-
-
+---
 <div style="width: 50%; text-align: justify; font-size:15px; margin:10px;">
 <h2>3MH sampler</h2>
 
