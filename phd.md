@@ -6,8 +6,10 @@ title: Ph.D work
 <p align="center">
 My Ph.D. research aims to investigate the fascinating intersection between deterministic optimization and the Bayesian framework, two fields that have traditionally followed separate paths. By incorporating deterministic optimization techniques, my research has contributed to enhancing Bayesian algorithms' efficiency, particularly in high-dimensional spaces.
 </p>
----
 
+<a style="text-align: justify; margin:5px; font-weight:050;font-size:15px" href="#" class="btn">Ph.D manuscript.</a>
+<a style="text-align: justify; margin:5px; font-weight:050;font-size:15px" href="#" class="btn">Defense's slides.</a>
+---
 
 <div style="width: 50%; text-align: centerjustify; font-size:15px; margin:10px;">
 <h2>3MH sampler</h2>
