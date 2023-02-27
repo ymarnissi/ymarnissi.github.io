@@ -37,6 +37,7 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 </div>
 </div>
 
+<center>
 <div style="width: 40%; text-align: justify; font-size:15px; margin:10px;">
 <center> <h2>3MH sampler</h2></center>
 
@@ -47,6 +48,7 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 
 <a href="3MH.md">Read More...</a>
 </div>
+  </center>
 
 
 
