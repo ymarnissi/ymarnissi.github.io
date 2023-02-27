@@ -49,11 +49,11 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "marnissi.yosra@gmail.com"
+  email: marnissi.yosra@gmail.com
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: "https://github.com/ymarnissi"
-  google-scholar: "https://scholar.google.com.sg/citations?user=01CT2_oAAAAJ&hl=en"
-  linkedin: "https://www.linkedin.com/in/yosra-marnissi-39428058/?originalSubdomain=fr"
+  github: https://github.com/ymarnissi
+  google-scholar: https://scholar.google.com.sg/citations?user=01CT2_oAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/yosra-marnissi-39428058/?originalSubdomain=fr
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
