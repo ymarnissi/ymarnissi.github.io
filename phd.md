@@ -28,7 +28,7 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 </div>
 
 <div style="float: right; width: 40%; text-align: justify; font-size:15px;">
-<center> <h2>Auxiliary variables Gibbs sampler for high dimensional spaces</h2></center>
+<center> <h2>Auxiliary variables Gibbs sampler</h2></center>
 <p>This is a <strong>Gibbs</strong> sampler with a <strong>Data Augmentation</strong> approach.  It ddresses the problem of sampling from multivariable distributions when the variables of interest are strongly correlated with heterogeneous sources of dependencies preventing efficient sampling with standard algorithms.</p>
 <!--more-->
 <p> <strong>Auxliary variables</strong> are added to the model without changing the target marginal
@@ -36,7 +36,7 @@ distributions in such a way that simulation can be performed more efficiently
 in the new larger space. </p>
 <a href="3MH.md">Read More...</a>
 </div>
-  <p> \br </p>
+
 </div>
 
 
@@ -52,6 +52,7 @@ divergence</strong> that we want to minimize. This is highly related to <strong>
  </p>
 <a href="3MH.md">Read More...</a>
 </div>
+
 
 
 
