@@ -38,7 +38,12 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
   
 </div>
 
-
+This
+chapter addresses the problem of sampling from multivariable distributions when the variables of interest are strongly correlated with heterogeneous sources of dependencies preventing the construction of ef-
+cient proposals in Metropolis Hastings algorithms. In particular, we
+add additional variables to the model without changing the marginal
+laws in such a way that simulation can be performed more eciently
+in the new larger space
 
 
 
