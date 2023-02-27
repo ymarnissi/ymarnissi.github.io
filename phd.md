@@ -7,8 +7,9 @@ title: Ph.D work
 My Ph.D. research aims to investigate the fascinating intersection between deterministic optimization and the Bayesian framework, two fields that have traditionally followed separate paths. By incorporating deterministic optimization techniques, my research has contributed to enhancing Bayesian algorithms' efficiency, particularly in high-dimensional spaces.
 </p>
 
-<a style="text-align: justify; margin:5px; font-weight:050;font-size:15px" href="#" class="btn">Ph.D manuscript.</a>
-<a style="text-align: justify; margin:5px; font-weight:050;font-size:15px" href="#" class="btn">Defense's slides.</a>
+---
+<a align="center" href="#" class="btn">Ph.D manuscript.</a>
+<a align="center" href="#" class="btn">Defense's slides.</a>
 ---
 
 <div style="width: 50%; text-align: centerjustify; font-size:15px; margin:10px;">
@@ -22,7 +23,7 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 <a href="3MH.md">Read More...</a>
 </div>
 
-
+---
 
 
 
