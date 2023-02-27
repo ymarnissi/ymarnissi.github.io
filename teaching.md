@@ -5,8 +5,8 @@ layout: page
 
 # Ph.D students
 
-- Yasmine Hawwari: Thesis defended on December 12, 2022
-- Maxime Leiber: 3rd year
+- Yasmine Hawwari: "Developement of some signal processing tools for vibro-acoustic based diagnosis of aeronautic machines". Thesis defended on December 12, 2022
+- Maxime Leiber: 3rd year. 
 
 
 # Courses
