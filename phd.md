@@ -36,10 +36,17 @@ distributions in such a way that simulation can be performed more efficiently
 in the new larger space. </p>
 <a href="3MH.md">Read More...</a>
 </div>
-  
+  <p> \br </p>
 </div>
 
-
+<div style="float: center; width: 100%; text-align: justify; font-size:15px;">
+<center> <h2>VBA algorithm for non-Gaussian models</h2></center>
+  <p>This is the <em>Majorize-Minimize adapted Metropolis-Hasting algorithm</em>: a novel <strong>Markov Chain Monte Carlo</strong> (MCMC) sampling algorithm using derivatives informations about the target density. </p>
+<!--more-->
+<p>It is a <strong>Metropolis-Hastings</strong> algorithm inspired from <strong>Langevin dynamics</strong>, where the drift term is preconditioned
+by an adaptive matrix constructed through a <strong>Majorization-Minimization</strong> strategy. </p>
+<a href="3MH.md">Read More...</a>
+</div>
 
 
 
