@@ -12,7 +12,7 @@ My Ph.D. research aims to investigate the fascinating intersection between deter
 <a align="center" href="#" class="btn">Defense's slides.</a>
 ---
 
-<div style="width: 50%; text-align: centerjustify; font-size:15px; margin:10px;">
+<div style="width: 50%; text-align: justify; font-size:15px; margin:10px;">
 <h2>3MH sampler</h2>
 
 <p>This is the Majorize-Minimize adapted Metropolis-Hasting algorithm: a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using first and second order informations about the target density. </p>
