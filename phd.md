@@ -10,16 +10,16 @@ My Ph.D. research aims to investigate the fascinating intersection between deter
 
 
 <div style="width: 50%;">
-<h1>3MH sampling algorithm</h1>
+<h2>3MH sampling algorithm</h2>
 
 <p>This is a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using first and second order informations about the target density. </p>
 
 <!--more-->
 
-<p>It is a **Metropolis-Hastings** algorithm inspired from **Langevin dynamics**, where the drift term is preconditioned
-by an adaptive matrix constructed through a **Majorization-Minimization** strategy. </p>
+<p>It is a <strong>Metropolis-Hastings</strong> algorithm inspired from <strong>Langevin dynamics</strong>, where the drift term is preconditioned
+by an adaptive matrix constructed through a <strong>Majorization-Minimization</strong> strategy. </p>
 
-<a href="/3MH.md">Read More...</a>
+<a href="3MH.md">Read More...</a>
 </div>
 
 
