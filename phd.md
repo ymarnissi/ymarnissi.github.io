@@ -18,7 +18,7 @@ My Ph.D. research aims to investigate the fascinating intersection between <stro
 <div style="width: 100%;">
   
   
-<div style="float: left; width: 50%; text-align: justify; font-size:15px; margin:10px;">
+<div style="float: left; width: 40%; text-align: justify; font-size:15px;">
 <center> <h2>3MH sampler</h2></center>
 <p>This is the Majorize-Minimize adapted Metropolis-Hasting algorithm: a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using derivatives informations about the target density. </p>
 <!--more-->
@@ -27,7 +27,7 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 <a href="3MH.md">Read More...</a>
 </div>
   
-<div style="float: right; width: 50%; text-align: justify; font-size:15px; margin:10px;">
+<div style="float: right; width: 40%; text-align: justify; font-size:15px;">
 <center> <h2>DA Gibbs sampler</h2></center>
 <p>This is the Majorize-Minimize adapted Metropolis-Hasting algorithm: a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using derivatives informations about the target density. </p>
 <!--more-->
