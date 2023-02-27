@@ -53,9 +53,5 @@ divergence</strong> that we want to minimize. This is highly related to <strong>
 <a href="3MH.md">Read More...</a>
 </div>
 
-We address the
-problem of image recovery beyond additive Gaussian noise models.
-Unlike classical approaches often adopted in the literature, the regularization parameter is estimated throughout a VBA algorithm from
-the observations. In order to address the problem of the intricate for
 
 
