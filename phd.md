@@ -9,10 +9,10 @@ My Ph.D. research aims to investigate the fascinating intersection between <stro
 
 ---
 <div style="width: 50%; text-align: center; font-size:15px; margin:10px;">
-  <p> <em>Materials</em>:  <a href="#" class="btn">Ph.D manuscript.</a>
-<a href="#" class="btn">Defense's slides.</a>
+  <p> <em>Materials</em>:  <a href="#" class="btn">Ph.D manuscript</a> <a href="#" class="btn">Defense's slides</a>
+    </p>
 </div>
-</p>
+
 
 ---
 <div style="width: 50%; text-align: justify; font-size:15px; margin:10px;">
