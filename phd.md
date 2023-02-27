@@ -14,7 +14,8 @@ My Ph.D. research aims to investigate the fascinating intersection between <stro
 </div>
 </center>
 ---
-<div style="width: 50%; text-align: justify; font-size:15px; margin:10px;">
+<div style="width: 100%;">
+<div style="float: left; width: 40%; text-align: justify; font-size:15px; margin:10px;">
 <center> <h2>3MH sampler</h2></center>
 
 <p>This is the Majorize-Minimize adapted Metropolis-Hasting algorithm: a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using first and second order informations about the target density. </p>
@@ -24,7 +25,28 @@ by an adaptive matrix constructed through a <strong>Majorization-Minimization</s
 
 <a href="3MH.md">Read More...</a>
 </div>
+<div style="float: right; width: 40%; text-align: justify; font-size:15px; margin:10px;">
+<center> <h2>3MH sampler</h2></center>
 
+<p>This is the Majorize-Minimize adapted Metropolis-Hasting algorithm: a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using first and second order informations about the target density. </p>
+<!--more-->
+<p>It is a <strong>Metropolis-Hastings</strong> algorithm inspired from <strong>Langevin dynamics</strong>, where the drift term is preconditioned
+by an adaptive matrix constructed through a <strong>Majorization-Minimization</strong> strategy. </p>
+
+<a href="3MH.md">Read More...</a>
+</div>
+</div>
+
+<div style="width: 40%; text-align: justify; font-size:15px; margin:10px;">
+<center> <h2>3MH sampler</h2></center>
+
+<p>This is the Majorize-Minimize adapted Metropolis-Hasting algorithm: a novel Markov Chain Monte Carlo (MCMC) sampling algorithm using first and second order informations about the target density. </p>
+<!--more-->
+<p>It is a <strong>Metropolis-Hastings</strong> algorithm inspired from <strong>Langevin dynamics</strong>, where the drift term is preconditioned
+by an adaptive matrix constructed through a <strong>Majorization-Minimization</strong> strategy. </p>
+
+<a href="3MH.md">Read More...</a>
+</div>
 
 
 
