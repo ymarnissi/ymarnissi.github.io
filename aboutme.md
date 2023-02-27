@@ -3,9 +3,7 @@ layout: page
 #title: About me.
 ---
 
-<h1>About me.
-
-</h1>
+<h1>About me.</h1>
 
 
 
